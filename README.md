@@ -1,5 +1,7 @@
-# 前言
+# Google JavaScript 风格指南
+=========
 
-本文档是 Google JavaScript 编程风格规范的完整定义。当且仅当一个 JavaScript 源文件符合此文档中的规则， 我们才认为它符合 Google 的 JavaScript 编程风格。
+* 在线文档阅读 Gitbook: [Google JavaScript 风格指南](https://liangzr.gitbooks.io/google-javascript/content/)
+* Google 官方英文文档: [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-与其它的编程风格指南一样，这里所讨论的不仅仅是编码格式美不美观的问题， 同时也讨论一些约定及编码标准。然而，本文档主要侧重于我们所普遍遵循的规则，并避免提供不能明确执行的建议。
+# 本项目由 `liangzr` 翻译并维护，有翻译不当等相关问题，请至 [issues](https://github.com/liangzr/zh-google-javascript-sytleguide/issues) 指出错误，谢谢
